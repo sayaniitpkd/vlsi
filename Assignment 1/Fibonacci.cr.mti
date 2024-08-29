@@ -1,0 +1,43 @@
+{C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_gen.v} {1 {vlog -work work -stats=none {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_gen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fibo_gen
+
+Top level modules:
+	fibo_gen
+
+} {} {}} {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_tb.v} {1 {vlog -work work -stats=none {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fibo_tb
+
+Top level modules:
+	fibo_tb
+
+} {} {}} {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/d_flip_flop.v} {1 {vlog -work work -stats=none {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/d_flip_flop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_flip_flop
+
+Top level modules:
+	d_flip_flop
+
+} {} {}} {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/full_adder.v} {1 {vlog -work work -stats=none {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_adder.v} {1 {vlog -work work -stats=none {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module n_bit_adder
+
+Top level modules:
+	n_bit_adder
+
+} {} {}} {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_register.v} {1 {vlog -work work -stats=none {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module n_bit_register
+
+Top level modules:
+	n_bit_register
+
+} {} {}}

@@ -1,0 +1,48 @@
+module fibo_gen #(
+    parameter N = 8  // Default width of the Fibonacci generator
+)(
+    input wire clk,                    // Clock input
+    input wire async_reset,            // Asynchronous reset
+    input wire sync_reset,             // Synchronous reset
+    output wire [N-1:0] fibo_out       // N-bit Fibonacci output
+);
+
+    wire [N-1:0] reg0_out;             // Output of the first register
+    wire [N-1:0] add_out;              // Output of the adder
+
+    // Instantiate the N-bit adder
+    n_bit_adder #(
+        .N(N)
+    ) adder (
+        .a(reg0_out),
+        .b(fibo_out),
+        .cin(1'b0),        // No carry-in for Fibonacci addition
+        .sum(add_out),
+        .cout()            // Carry-out is not needed for Fibonacci addition
+    );
+
+    // Instantiate the first N-bit register (reg0_out)
+    n_bit_register #(
+        .N(N)
+    ) reg0 (
+        .d(add_out),
+        .clk(clk),
+        .async_reset(async_reset),
+        .sync_reset(sync_reset),
+        .reset_value({{N-1{1'b0}}, 1'b1}), // Reset reg0_out to 1
+        .q(reg0_out)
+    );
+
+    // Instantiate the second N-bit register (fibo_out)
+    n_bit_register #(
+        .N(N)
+    ) reg1 (
+        .d(reg0_out),
+        .clk(clk),
+        .async_reset(async_reset),
+        .sync_reset(sync_reset),
+        .reset_value({N{1'b0}}),       // Reset fibo_out to 0
+        .q(fibo_out)
+    );
+
+endmodule

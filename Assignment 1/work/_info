@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/fibo_gen
+vd_flip_flop
+Z0 !s110 1724956173
+!i10b 1
+!s100 SQJU>fXll<nk_zJSV<oNN0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK8:NEKhnZQ4kY5i7Z839X0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1
+w1724951131
+8C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/d_flip_flop.v
+FC:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/d_flip_flop.v
+!i122 39
+L0 1 13
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1724956173.000000
+!s107 C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/d_flip_flop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/d_flip_flop.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vfibo_gen
+R0
+!i10b 1
+!s100 I4SdV[1@ZNhZ3>>_VR9eO2
+R1
+InFX^BSmG7iXn8KIM0`R8X3
+R2
+R3
+w1724954484
+8C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_gen.v
+FC:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_gen.v
+!i122 37
+L0 1 42
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_gen.v|
+!i113 1
+R6
+R7
+vfibo_tb
+Z8 !s110 1724956174
+!i10b 1
+!s100 A`dUlUncaRWT`Ffe]bNNX3
+R1
+IfKN3m=U:j9^?1cFNTP[300
+R2
+R3
+w1724956167
+8C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_tb.v
+FC:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_tb.v
+!i122 42
+L0 1 32
+R4
+r1
+!s85 0
+31
+Z9 !s108 1724956174.000000
+!s107 C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/fibo_tb.v|
+!i113 1
+R6
+R7
+vfull_adder
+R0
+!i10b 1
+!s100 MfOHaz2JzIN6jczjFjYaQ2
+R1
+IfJDJ1o_37LOnQ9Tz1i?112
+R2
+R3
+w1724950736
+8C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/full_adder.v
+FC:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/full_adder.v
+!i122 38
+L0 1 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/full_adder.v|
+!i113 1
+R6
+R7
+vn_bit_adder
+R8
+!i10b 1
+!s100 dSlYEJW[FdE?kJXHoeE^W3
+R1
+I6;ezm5`<idiF?:<faXTC23
+R2
+R3
+w1724952143
+8C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_adder.v
+FC:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_adder.v
+!i122 41
+L0 1 22
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_adder.v|
+!i113 1
+R6
+R7
+vn_bit_register
+R8
+!i10b 1
+!s100 <0@I9J>WhZIznzYT?<i8Z0
+R1
+IQk`2FE>>:AB8f:ahX74=<3
+R2
+R3
+w1724951836
+8C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_register.v
+FC:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_register.v
+!i122 40
+L0 1 20
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/Assignment 1/n_bit_register.v|
+!i113 1
+R6
+R7

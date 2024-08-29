@@ -1,0 +1,15 @@
+{C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/fibo_gen/fibo.v} {1 {vlog -work work -stats=none {C:\Users\sayan\Desktop\temp\M.tech 1st sem\vlsi\fibo_gen\fibo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fibo_gen
+
+Top level modules:
+	fibo_gen
+
+} {} {}} {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/fibo_gen/fibo_tb.v} {1 {vlog -work work -stats=none {C:/Users/sayan/Desktop/temp/M.tech 1st sem/vlsi/fibo_gen/fibo_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}
